@@ -1,2 +1,1 @@
-My first readme
-hg 
+my first 
